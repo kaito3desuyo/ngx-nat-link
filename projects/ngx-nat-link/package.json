@@ -1,6 +1,6 @@
 {
   "name": "ngx-nat-link",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "dependencies": {
     "lodash-es": "^4.17.15"
   },
@@ -15,8 +15,8 @@
   "keywords": [
     "angular",
     "Angular",
-	"routing",
-	"directive"
+    "routing",
+    "directive"
   ],
   "repository": {
     "type": "git",
