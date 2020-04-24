@@ -8,7 +8,7 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "prepublish": "ng build ngx-nat-link",
+    "prepublish": "ng build ngx-nat-link --prod && cp ./README.md ./dist/ngx-nat-link/README.md",
     "publish": "npm publish ./dist/ngx-nat-link"
   },
   "private": true,
