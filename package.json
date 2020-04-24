@@ -7,7 +7,9 @@
     "build": "ng build",
     "test": "ng test",
     "lint": "ng lint",
-    "e2e": "ng e2e"
+    "e2e": "ng e2e",
+    "prepublish": "ng build ngx-nat-link",
+    "publish": "npm publish ./dist/ngx-nat-link"
   },
   "private": true,
   "dependencies": {
