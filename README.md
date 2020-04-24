@@ -8,6 +8,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 For tags with this directive applied, `Ctrl + left click` or `middle click` to open a new tab.
 
+`nat` means `not anchor tag`.
+
 ## Usage
 
 ```
