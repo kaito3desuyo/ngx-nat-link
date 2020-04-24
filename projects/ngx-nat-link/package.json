@@ -2,6 +2,7 @@
   "name": "ngx-nat-link",
   "version": "0.0.1",
   "peerDependencies": {
+    "lodash-es": "^4.17.15",
     "@angular/common": "^9.1.3",
     "@angular/core": "^9.1.3",
     "tslib": "^1.10.0"

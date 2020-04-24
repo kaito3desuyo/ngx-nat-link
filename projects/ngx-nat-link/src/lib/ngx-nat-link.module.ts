@@ -1,12 +1,9 @@
 import { NgModule } from '@angular/core';
-import { NgxNatLinkComponent } from './ngx-nat-link.component';
-
-
+import { NgxNatLinkDirective } from './ngx-nat-link.directive';
 
 @NgModule({
-  declarations: [NgxNatLinkComponent],
-  imports: [
-  ],
-  exports: [NgxNatLinkComponent]
+  declarations: [NgxNatLinkDirective],
+  imports: [],
+  exports: [NgxNatLinkDirective],
 })
-export class NgxNatLinkModule { }
+export class NgxNatLinkModule {}
